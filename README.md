@@ -7,7 +7,7 @@
 
 • 📊 I studied a degree in **Mechatronics engineering**
 
-• 📖 I’m currently learning **Data Scientist**
+• 📖 I’m focus on **Data Scientist**
 
 • 💬 Ask me about **Automation, Data Science, Machine Learning**
 
